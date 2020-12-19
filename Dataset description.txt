@@ -1,0 +1,187 @@
+Timestamp					: Timestamp when the response was recorded
+
+Eg: 2020/10/31 12:14:44 AM GMT+5:30
+
+
+Please enter your gender			: Gender of the respondant
+
+Female
+Male
+Prefer not to disclose
+Other
+
+Please select your age group			: Age group which the respondant belongs to
+
+Below 18
+18 - 25
+26 - 35
+36 - 55
+Above 55
+
+
+Please select your district of residence	: District of residence
+
+Jaffna
+Kilinochchi
+Mannar
+Mullaitivu
+Vavuniya
+Puttalam
+Kurunegala
+Gampaha
+Colombo
+Kalutara
+Anuradhapura
+Polonnaruwa
+Matale
+Kandy
+Nuwara Eliya
+Kegalle
+Ratnapura
+Trincomalee
+Batticaloa
+Ampara
+Badulla
+Monaragala
+Hambantota
+Matara
+Galle
+
+Enter your city					: City of residence
+
+To be entered manually
+Can be empty
+
+Marital status					: Married/Unmarried 
+
+Married
+Single
+Other
+
+Your level of education				: Educational level
+
+Bachelor’s Degree or equivalent
+Diploma or equivalent
+Advanced Level or equivalent
+Ordinary Level or equivalent
+None
+Other
+
+Are you employed?				: Employement Status
+
+Yes
+No
+
+If yes, enter your field of work. 		: Field of work
+
+Architecture and engineering
+Arts, culture and entertainment
+Business, management and administration
+Communications
+Community and social services
+Education
+Science and technology
+Installation, repair, and maintenance
+Farming, fishing, and forestry
+Government
+Health and medicine
+Law and public policy
+Sales
+Other
+Can be empty
+
+
+Please specify your monthly income		: Monthly income
+
+Less than 50,000
+50,000 - 100,000
+101,000 - 150,000
+151,000 - 200,000
+Above 200,000
+Can be empty
+
+Are you a banking mobile application user?				: Uses banking mobile apps or not
+
+Yes Skip to question 11
+No
+
+
+How often do you use mobile banking apps?				: Frequency of usage
+
+1 - 5 times per day
+Less than 5 times per week
+1 - 10 times per month
+Less than once a month
+Less than once a year
+Other
+
+
+For what purposes do you use the banking mobile application mostly? 	: The purpose of usage - Can have multiple rsponses
+
+For online money transfer to family and friends
+To pay bills / reloads / standing orders
+Loan payments
+To check balance and transaction history
+To submit online requests to banks
+Manage savings accounts
+Mange current accounts
+Manage fixed deposits
+Top up mobile credits
+Communicate with bank
+Other
+
+
+What are the banking mobile applications you use mostly?		: Names of the apps used - Can have multiple rsponses
+
+BApp – Bank of Ceylon
+BOC Smart Pay - Bank of Ceylon
+People’s Wave – People’s Bank
+SOLO – Hatton National Bank
+Sampath Bank Mobile App - Sampath Bank
+Combank Digital – Commercial Bank
+Flash - Commercial Bank
+SC Mobile Sri Lanka – Standard Chartered
+Nations Mobile Banking – Nations Trust Bank
+Frimi - Nations Trust Bank
+HNB Mobile Banking - Hatton National Bank
+HNB Digital Banking - Hatton National Bank
+Virtual Wallet - DFCC
+Other
+
+Can have multiple rsponses
+
+How satisfied are you with the banking mobile application experience? [Application interface]	
+
+Very
+Unsatisfied
+Unsatisfied Neutral Satisfied
+Very
+Satisfied
+
+How satisfied are you with the banking mobile application experience? [Security]	
+
+Very
+Unsatisfied
+Unsatisfied Neutral Satisfied
+Very
+Satisfied
+
+How satisfied are you with the banking mobile application experience? [Time saving]
+
+Very
+Unsatisfied
+Unsatisfied Neutral Satisfied
+Very
+Satisfied
+	
+How satisfied are you with the banking mobile application experience? [Availability of services]	
+
+Very
+Unsatisfied
+Unsatisfied Neutral Satisfied
+Very
+Satisfied
+
+How do you think mobile banking apps can be improved to provide more services, features? Give your comments. : Any commnets
+
+To be manually entered. Can be empty
